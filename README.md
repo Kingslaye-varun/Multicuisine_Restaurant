@@ -80,6 +80,12 @@ Each team member contributed to different parts of the project:
 - **Varun Rahatgaonkar**: Developed the complex queries and reports.
 - **Nikhil Sunchu**: Worked on optimization and testing.
 
+## Project Report
+
+The project report provides detailed information about the design, implementation, and testing of the Restaurant Management System. 
+
+You can view or download the report here: https://www.canva.com/design/DAGTVM5jicA/dLkGotzEZ4TprGfmG2JmhA/edit?utm_content=DAGTVM5jicA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Conclusion
 
 This project demonstrates how a well-structured relational database can efficiently manage a restaurant’s day-to-day operations. By using SQL Server 2022, the system ensures data integrity, scalability, and ease of use.
