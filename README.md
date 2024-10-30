@@ -7,9 +7,9 @@
 This project is a **Restaurant Management System** built using SQL Server 2022. It provides an efficient way to manage restaurant operations such as customer reservations, staff assignments, orders, and menu items. The system is designed to handle various functionalities like booking tables, placing orders, managing staff, and tracking customer information.
 
 ## Group Members
-- **Atharva Pingale**  
-- **Nidhi Puthran**  
-- **Varun Rahatgaonkar**  
+- **[Atharva Pingale](https://github.com/Atharvasp333)**  
+- **[Nidhi Puthran](https://github.com/nidhi0810)**  
+- **[Varun Rahatgaonkar](https://github.com/Kingslaye-varun)**  
 - **Nikhil Sunchu**  
 
 ## Database Structure
